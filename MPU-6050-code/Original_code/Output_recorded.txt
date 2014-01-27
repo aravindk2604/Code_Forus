@@ -1,0 +1,1320 @@
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2508, -2764, 14400
+temperature: 28.882 degrees Celsius
+gyro x,y,z : -405, 112, -129, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2636, -2684, 14596
+temperature: 28.929 degrees Celsius
+gyro x,y,z : -216, 97, -111, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2532, -2684, 14508
+temperature: 28.929 degrees Celsius
+gyro x,y,z : -416, 130, -113, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2556, -2736, 14616
+temperature: 28.929 degrees Celsius
+gyro x,y,z : -422, 132, -104, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2664, -2564, 14520
+temperature: 28.835 degrees Celsius
+gyro x,y,z : -391, 106, -108, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2572, -2632, 14404
+temperature: 28.929 degrees Celsius
+gyro x,y,z : -431, 113, -115, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2624, -2636, 14380
+temperature: 28.976 degrees Celsius
+gyro x,y,z : -410, 146, -124, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2716, -2696, 14488
+temperature: 28.882 degrees Celsius
+gyro x,y,z : -415, 135, -127, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2532, -2608, 14428
+temperature: 28.882 degrees Celsius
+gyro x,y,z : -412, 108, -111, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2548, -2708, 14548
+temperature: 28.929 degrees Celsius
+gyro x,y,z : -406, 132, -112, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2700, -2692, 14528
+temperature: 28.929 degrees Celsius
+gyro x,y,z : -431, 120, -114, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2508, -2656, 14492
+temperature: 29.024 degrees Celsius
+gyro x,y,z : -423, 109, -108, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2452, -2704, 14480
+temperature: 29.071 degrees Celsius
+gyro x,y,z : -409, 118, -106, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2652, -2632, 14456
+temperature: 28.976 degrees Celsius
+gyro x,y,z : -415, 131, -113, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2588, -2812, 14516
+temperature: 28.976 degrees Celsius
+gyro x,y,z : -436, 108, -103, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -3128, -5804, 13400
+temperature: 28.976 degrees Celsius
+gyro x,y,z : 3394, 97, -6407, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 9852, 11116, -4660
+temperature: 29.071 degrees Celsius
+gyro x,y,z : 9770, -3132, 2425, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 7848, 9804, -12188
+temperature: 29.071 degrees Celsius
+gyro x,y,z : 487, 261, -316, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 9192, 8820, -11480
+temperature: 29.071 degrees Celsius
+gyro x,y,z : -3284, 2936, 952, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 9264, 9856, -11228
+temperature: 29.118 degrees Celsius
+gyro x,y,z : -521, 128, -248, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 9300, 10328, -10648
+temperature: 29.071 degrees Celsius
+gyro x,y,z : -1236, 220, -117, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 4336, -12128, -12852
+temperature: 29.071 degrees Celsius
+gyro x,y,z : -14289, -513, -1167, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 4136, -8128, -15272
+temperature: 29.071 degrees Celsius
+gyro x,y,z : -917, 341, -258, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 4392, -8792, -15632
+temperature: 29.118 degrees Celsius
+gyro x,y,z : -659, 16, -64, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 4760, -7128, -15556
+temperature: 29.071 degrees Celsius
+gyro x,y,z : -3210, -48, -1012, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 8996, -13672, -2080
+temperature: 29.165 degrees Celsius
+gyro x,y,z : 11255, 6222, -8482, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 9328, 8916, 6772
+temperature: 29.118 degrees Celsius
+gyro x,y,z : 22805, -3147, 2994, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 13208, 9192, 4936
+temperature: 29.165 degrees Celsius
+gyro x,y,z : 431, -332, 1221, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 15596, 4908, 1896
+temperature: 29.118 degrees Celsius
+gyro x,y,z : -2035, 1079, 467, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 15276, 6132, -1044
+temperature: 29.212 degrees Celsius
+gyro x,y,z : 6988, -5164, 1201, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 15604, 4612, -4540
+temperature: 29.259 degrees Celsius
+gyro x,y,z : -539, 116, -157, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 16308, 13672, 3848
+temperature: 29.259 degrees Celsius
+gyro x,y,z : -29786, 4932, -14607, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 5112, -7732, -15964
+temperature: 29.306 degrees Celsius
+gyro x,y,z : 91, 521, 879, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -6472, -5864, 12564
+temperature: 29.165 degrees Celsius
+gyro x,y,z : 3337, -1293, -147, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -4852, -4708, 13168
+temperature: 29.353 degrees Celsius
+gyro x,y,z : 190, -78, 16, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -4144, -4644, 13756
+temperature: 29.353 degrees Celsius
+gyro x,y,z : -1450, 59, -121, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 7308, -12284, 10816
+temperature: 29.259 degrees Celsius
+gyro x,y,z : 5741, -10850, 1703, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 12420, -9088, 5372
+temperature: 29.353 degrees Celsius
+gyro x,y,z : 18, -826, -417, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 12488, -10124, 2780
+temperature: 29.259 degrees Celsius
+gyro x,y,z : -193, -850, -84, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 12968, -9968, 2052
+temperature: 29.306 degrees Celsius
+gyro x,y,z : -358, 513, -490, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 12960, -9940, 1980
+temperature: 29.353 degrees Celsius
+gyro x,y,z : -501, 29, 2, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 13152, -10136, 1728
+temperature: 29.306 degrees Celsius
+gyro x,y,z : -681, 137, -239, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 13120, -9892, 1668
+temperature: 29.353 degrees Celsius
+gyro x,y,z : -512, 8175, -3343, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -7200, -11884, 7068
+temperature: 29.353 degrees Celsius
+gyro x,y,z : -237, 476, 508, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -5136, -8176, 8588
+temperature: 29.541 degrees Celsius
+gyro x,y,z : -808, 7722, -806, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -4588, -10544, 10876
+temperature: 29.400 degrees Celsius
+gyro x,y,z : 91, -15018, -3116, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 11276, -9628, 3796
+temperature: 29.353 degrees Celsius
+gyro x,y,z : -1258, -1556, -1439, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 9676, -11072, 4132
+temperature: 29.306 degrees Celsius
+gyro x,y,z : 16691, -2829, 9059, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 1804, -3860, 15188
+temperature: 29.447 degrees Celsius
+gyro x,y,z : -1104, -37, 557, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 1788, -5012, 14380
+temperature: 29.400 degrees Celsius
+gyro x,y,z : -1415, -104, 188, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -300, -1860, 14600
+temperature: 29.494 degrees Celsius
+gyro x,y,z : -343, -45, 3087, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1524, -568, 15016
+temperature: 29.494 degrees Celsius
+gyro x,y,z : -1048, 332, -695, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 1380, -7240, 13732
+temperature: 29.400 degrees Celsius
+gyro x,y,z : -6676, -845, -18203, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 4040, -2104, 14060
+temperature: 29.447 degrees Celsius
+gyro x,y,z : -1236, 772, 1142, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 2508, -3464, 15068
+temperature: 29.541 degrees Celsius
+gyro x,y,z : -667, 1891, -68, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 3516, -16024, 132
+temperature: 29.494 degrees Celsius
+gyro x,y,z : -11335, 185, -2015, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 3944, -17532, -7872
+temperature: 29.635 degrees Celsius
+gyro x,y,z : 11492, 4087, -2769, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 1224, 2888, -17492
+temperature: 29.635 degrees Celsius
+gyro x,y,z : -463, -657, 124, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 992, 2928, -17868
+temperature: 29.588 degrees Celsius
+gyro x,y,z : -394, 217, -93, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 1040, 3316, -17720
+temperature: 29.635 degrees Celsius
+gyro x,y,z : -534, 15, -129, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 648, 5132, -17704
+temperature: 29.588 degrees Celsius
+gyro x,y,z : -2351, -864, 279, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 3016, -3072, 14592
+temperature: 29.635 degrees Celsius
+gyro x,y,z : 102, 1006, 549, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 2724, -4436, 14096
+temperature: 29.541 degrees Celsius
+gyro x,y,z : -398, -54, -80, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 3748, -2008, -21904
+temperature: 29.635 degrees Celsius
+gyro x,y,z : -23604, -5916, 3524, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 892, -1944, -18092
+temperature: 29.541 degrees Celsius
+gyro x,y,z : 196, 260, 65, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -772, -6276, 13316
+temperature: 29.682 degrees Celsius
+gyro x,y,z : 935, -899, -197, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -500, -5520, 14300
+temperature: 29.682 degrees Celsius
+gyro x,y,z : -1592, 300, -83, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 1264, -7664, -16252
+temperature: 29.635 degrees Celsius
+gyro x,y,z : -235, 29, -338, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -88, -6312, 13836
+temperature: 29.635 degrees Celsius
+gyro x,y,z : -704, -3, -14, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 32, -7644, -16592
+temperature: 29.635 degrees Celsius
+gyro x,y,z : -2205, -347, -170, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 1236, -6948, 12880
+temperature: 29.682 degrees Celsius
+gyro x,y,z : -2, -2370, 661, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 6620, -4860, 12052
+temperature: 29.824 degrees Celsius
+gyro x,y,z : -333, 510, 156, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 8880, -5560, 11496
+temperature: 29.682 degrees Celsius
+gyro x,y,z : 2824, 274, 3210, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 13944, -4944, 6076
+temperature: 29.824 degrees Celsius
+gyro x,y,z : -20332, -6969, 50, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 15840, -3880, 2368
+temperature: 29.729 degrees Celsius
+gyro x,y,z : 286, 429, 118, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 15724, -4508, 2580
+temperature: 29.682 degrees Celsius
+gyro x,y,z : 943, -122, 2083, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -10068, -4876, 5848
+temperature: 29.729 degrees Celsius
+gyro x,y,z : 32767, -32768, -1839, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2052, -1632, 14600
+temperature: 29.824 degrees Celsius
+gyro x,y,z : -403, 130, -131, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1612, -816, 14740
+temperature: 29.776 degrees Celsius
+gyro x,y,z : -409, 136, -109, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1680, -848, 14744
+temperature: 29.682 degrees Celsius
+gyro x,y,z : -430, 119, -114, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1520, -888, 14708
+temperature: 29.729 degrees Celsius
+gyro x,y,z : -434, 134, -108, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1644, -748, 14772
+temperature: 29.682 degrees Celsius
+gyro x,y,z : -391, 136, -108, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1636, -816, 14724
+temperature: 29.729 degrees Celsius
+gyro x,y,z : -409, 130, -105, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1596, -776, 14768
+temperature: 29.682 degrees Celsius
+gyro x,y,z : -400, 125, -115, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1584, -780, 14600
+temperature: 29.635 degrees Celsius
+gyro x,y,z : -421, 130, -108, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1576, -776, 14736
+temperature: 29.541 degrees Celsius
+gyro x,y,z : -421, 107, -116, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1588, -796, 14692
+temperature: 29.635 degrees Celsius
+gyro x,y,z : -412, 101, -118, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1644, -856, 14892
+temperature: 29.541 degrees Celsius
+gyro x,y,z : -417, 123, -105, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1704, -864, 14756
+temperature: 29.588 degrees Celsius
+gyro x,y,z : -428, 126, -119, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1632, -816, 14904
+temperature: 29.541 degrees Celsius
+gyro x,y,z : -410, 108, -105, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1728, -784, 14864
+temperature: 29.541 degrees Celsius
+gyro x,y,z : -435, 127, -110, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1572, -820, 14688
+temperature: 29.541 degrees Celsius
+gyro x,y,z : -409, 117, -113, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1628, -808, 14712
+temperature: 29.541 degrees Celsius
+gyro x,y,z : -411, 98, -124, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1644, -804, 14832
+temperature: 29.541 degrees Celsius
+gyro x,y,z : -423, 145, -106, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1616, -772, 14780
+temperature: 29.541 degrees Celsius
+gyro x,y,z : -394, 127, -104, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1612, -796, 14824
+temperature: 29.541 degrees Celsius
+gyro x,y,z : -401, 111, -108, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1740, -864, 14892
+temperature: 29.494 degrees Celsius
+gyro x,y,z : -420, 103, -116, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1612, -780, 14752
+temperature: 29.447 degrees Celsius
+gyro x,y,z : -411, 100, -125, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1660, -844, 14844
+temperature: 29.447 degrees Celsius
+gyro x,y,z : -396, 115, -113, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1532, -844, 15072
+temperature: 29.541 degrees Celsius
+gyro x,y,z : -423, 113, -118, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1556, -840, 14760
+temperature: 29.494 degrees Celsius
+gyro x,y,z : -418, 126, -124, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1420, -1148, 14792
+temperature: 29.400 degrees Celsius
+gyro x,y,z : -361, 174, -121, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1672, -804, 14752
+temperature: 29.400 degrees Celsius
+gyro x,y,z : -396, 111, -126, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1656, -828, 14780
+temperature: 29.494 degrees Celsius
+gyro x,y,z : -421, 111, -110, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1628, -736, 14700
+temperature: 29.447 degrees Celsius
+gyro x,y,z : -410, 132, -122, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1648, -808, 14700
+temperature: 29.541 degrees Celsius
+gyro x,y,z : -402, 126, -105, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1620, -804, 14864
+temperature: 29.447 degrees Celsius
+gyro x,y,z : -406, 125, -105, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1664, -836, 14676
+temperature: 29.447 degrees Celsius
+gyro x,y,z : -414, 120, -102, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1596, -796, 14748
+temperature: 29.447 degrees Celsius
+gyro x,y,z : -428, 87, -106, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1692, -800, 14724
+temperature: 29.447 degrees Celsius
+gyro x,y,z : -429, 112, -101, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1632, -820, 14920
+temperature: 29.400 degrees Celsius
+gyro x,y,z : -425, 121, -124, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1628, -784, 14868
+temperature: 29.447 degrees Celsius
+gyro x,y,z : -430, 125, -83, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1604, -736, 14688
+temperature: 29.494 degrees Celsius
+gyro x,y,z : -418, 101, -116, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1608, -848, 14712
+temperature: 29.353 degrees Celsius
+gyro x,y,z : -410, 88, -103, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1596, -768, 14932
+temperature: 29.400 degrees Celsius
+gyro x,y,z : -416, 112, -114, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1380, 460, 16996
+temperature: 29.353 degrees Celsius
+gyro x,y,z : 26, -22049, -1106, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -3892, -5164, 15908
+temperature: 29.306 degrees Celsius
+gyro x,y,z : -11385, 345, -293, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2780, -7508, 12892
+temperature: 29.541 degrees Celsius
+gyro x,y,z : -4339, 17, 95, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2344, -11896, 9276
+temperature: 29.353 degrees Celsius
+gyro x,y,z : -704, -874, -25, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2160, -14080, 6488
+temperature: 29.447 degrees Celsius
+gyro x,y,z : -1307, 395, 31, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2396, -16148, 2424
+temperature: 29.447 degrees Celsius
+gyro x,y,z : -4736, -621, -73, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2340, -16388, -1244
+temperature: 29.447 degrees Celsius
+gyro x,y,z : 415, 327, -412, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1552, -12056, 7832
+temperature: 29.447 degrees Celsius
+gyro x,y,z : 6178, 767, 1711, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 5824, -13748, 5452
+temperature: 29.447 degrees Celsius
+gyro x,y,z : -2616, -12800, 219, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 9616, -11556, 8892
+temperature: 29.541 degrees Celsius
+gyro x,y,z : 435, 912, 734, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 7404, -14216, -2320
+temperature: 29.494 degrees Celsius
+gyro x,y,z : 2249, -6964, -992, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 6720, -13620, 5664
+temperature: 29.494 degrees Celsius
+gyro x,y,z : -654, 566, 18, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 11196, -12076, 2172
+temperature: 29.494 degrees Celsius
+gyro x,y,z : -407, 905, 832, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 6760, -11524, 8792
+temperature: 29.494 degrees Celsius
+gyro x,y,z : -4721, -6986, -4240, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 10756, -3312, 7856
+temperature: 29.494 degrees Celsius
+gyro x,y,z : -1954, -95, -1001, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 11128, -3580, 10296
+temperature: 29.541 degrees Celsius
+gyro x,y,z : -990, 292, 4, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 12304, -11420, 7664
+temperature: 29.588 degrees Celsius
+gyro x,y,z : -7584, 2739, -1757, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 5096, -16440, 5644
+temperature: 29.635 degrees Celsius
+gyro x,y,z : 7045, -20644, -2277, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 7540, -9600, 9480
+temperature: 29.635 degrees Celsius
+gyro x,y,z : -1154, 52, -587, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 14116, -9320, 3752
+temperature: 29.588 degrees Celsius
+gyro x,y,z : 286, -7334, 1262, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 12780, -7280, 6844
+temperature: 29.541 degrees Celsius
+gyro x,y,z : -76, 288, -355, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 12276, -9804, 1872
+temperature: 29.729 degrees Celsius
+gyro x,y,z : 612, 6250, -184, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 7456, -17476, 12304
+temperature: 29.635 degrees Celsius
+gyro x,y,z : 2067, 13662, 7742, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 6436, -11980, 7468
+temperature: 29.635 degrees Celsius
+gyro x,y,z : -563, -140, 72, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 5972, -12736, 7348
+temperature: 29.824 degrees Celsius
+gyro x,y,z : -295, -29, -126, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 5516, -12520, 6728
+temperature: 29.635 degrees Celsius
+gyro x,y,z : 1265, -1873, 724, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 6860, -12840, 6776
+temperature: 29.682 degrees Celsius
+gyro x,y,z : 1616, 556, 1231, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 3524, -10536, 10372
+temperature: 29.635 degrees Celsius
+gyro x,y,z : -588, 725, 431, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 3620, -10568, 11204
+temperature: 29.729 degrees Celsius
+gyro x,y,z : -522, -156, -415, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 3632, -10788, 10520
+temperature: 29.871 degrees Celsius
+gyro x,y,z : -495, 307, 93, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 3672, -10248, 11024
+temperature: 29.918 degrees Celsius
+gyro x,y,z : -166, 269, -278, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 3692, -10476, 10652
+temperature: 29.871 degrees Celsius
+gyro x,y,z : -255, 60, -171, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 3828, -10404, 10976
+temperature: 29.824 degrees Celsius
+gyro x,y,z : -603, 6, -104, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 3948, -10416, 11240
+temperature: 29.824 degrees Celsius
+gyro x,y,z : -402, 36, -198, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 3860, -10332, 11160
+temperature: 29.918 degrees Celsius
+gyro x,y,z : -481, -143, -185, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 4080, -10108, 11100
+temperature: 29.824 degrees Celsius
+gyro x,y,z : -344, 110, -15, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 3972, -10224, 11200
+temperature: 29.965 degrees Celsius
+gyro x,y,z : -330, 202, -258, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 4072, -10052, 10992
+temperature: 29.918 degrees Celsius
+gyro x,y,z : -389, 113, -146, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 4040, -10180, 10884
+temperature: 29.965 degrees Celsius
+gyro x,y,z : -391, 170, -37, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 4204, -10192, 11204
+temperature: 30.059 degrees Celsius
+gyro x,y,z : -449, 183, -14, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 4044, -10084, 11488
+temperature: 30.012 degrees Celsius
+gyro x,y,z : -532, 262, -148, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 4052, -9736, 10944
+temperature: 30.012 degrees Celsius
+gyro x,y,z : -206, 139, -43, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 4140, -10112, 11016
+temperature: 30.153 degrees Celsius
+gyro x,y,z : -347, 147, -104, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 4172, -10184, 11456
+temperature: 30.012 degrees Celsius
+gyro x,y,z : -400, 268, -93, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: 1328, -12628, 8260
+temperature: 30.153 degrees Celsius
+gyro x,y,z : -511, -235, 2862, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -4412, -8572, 11184
+temperature: 30.153 degrees Celsius
+gyro x,y,z : 12360, -5508, -1235, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2672, -6424, 13300
+temperature: 30.153 degrees Celsius
+gyro x,y,z : -413, 70, -108, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2536, -6356, 13460
+temperature: 30.200 degrees Celsius
+gyro x,y,z : -397, 140, -107, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2528, -6344, 13376
+temperature: 30.106 degrees Celsius
+gyro x,y,z : -452, 177, -100, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2656, -6340, 13492
+temperature: 30.247 degrees Celsius
+gyro x,y,z : -479, 141, -117, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2508, -6424, 13456
+temperature: 30.294 degrees Celsius
+gyro x,y,z : -383, 176, -109, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2668, -6288, 13392
+temperature: 30.247 degrees Celsius
+gyro x,y,z : -444, 106, -92, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2548, -6336, 13372
+temperature: 30.153 degrees Celsius
+gyro x,y,z : -474, 117, -103, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2468, -6336, 13436
+temperature: 30.200 degrees Celsius
+gyro x,y,z : -386, 79, -92, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2576, -1576, 14984
+temperature: 30.200 degrees Celsius
+gyro x,y,z : 5392, 284, 5823, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -932, -1152, 15468
+temperature: 30.200 degrees Celsius
+gyro x,y,z : -7661, 6938, -2673, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1724, -1664, 14716
+temperature: 30.247 degrees Celsius
+gyro x,y,z : -443, 133, -108, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1708, -1708, 14692
+temperature: 30.200 degrees Celsius
+gyro x,y,z : -434, 108, -129, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1740, -1588, 14728
+temperature: 30.153 degrees Celsius
+gyro x,y,z : -442, 155, -120, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1744, -1608, 14584
+temperature: 30.294 degrees Celsius
+gyro x,y,z : -411, 134, -117, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1736, -1752, 14844
+temperature: 30.200 degrees Celsius
+gyro x,y,z : -433, 129, -97, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1756, -1624, 14744
+temperature: 30.247 degrees Celsius
+gyro x,y,z : -408, 108, -104, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1812, -1640, 14676
+temperature: 30.200 degrees Celsius
+gyro x,y,z : -451, 87, -113, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1812, -1620, 14584
+temperature: 30.200 degrees Celsius
+gyro x,y,z : -420, 115, -107, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1768, -1632, 14828
+temperature: 30.106 degrees Celsius
+gyro x,y,z : -443, 126, -116, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1724, -1648, 14768
+temperature: 30.200 degrees Celsius
+gyro x,y,z : -428, 91, -102, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1712, -1664, 14820
+temperature: 30.106 degrees Celsius
+gyro x,y,z : -411, 106, -125, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1756, -1612, 14720
+temperature: 30.200 degrees Celsius
+gyro x,y,z : -441, 116, -108, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1712, -1584, 14756
+temperature: 30.200 degrees Celsius
+gyro x,y,z : -441, 99, -106, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1780, -1624, 14788
+temperature: 30.153 degrees Celsius
+gyro x,y,z : -420, 152, -114, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1612, -1608, 14648
+temperature: 30.200 degrees Celsius
+gyro x,y,z : -426, 135, -98, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1732, -1632, 14576
+temperature: 30.153 degrees Celsius
+gyro x,y,z : -420, 110, -107, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1720, -1612, 14560
+temperature: 30.106 degrees Celsius
+gyro x,y,z : -384, 123, -118, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1736, -1676, 14736
+temperature: 30.247 degrees Celsius
+gyro x,y,z : -434, 142, -97, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1720, -1676, 14752
+temperature: 30.200 degrees Celsius
+gyro x,y,z : -438, 103, -119, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1700, -1624, 14728
+temperature: 30.153 degrees Celsius
+gyro x,y,z : -418, 109, -96, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1756, -1756, 14644
+temperature: 30.106 degrees Celsius
+gyro x,y,z : -428, 126, -121, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1748, -1684, 14700
+temperature: 30.106 degrees Celsius
+gyro x,y,z : -424, 123, -117, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1716, -1640, 14572
+temperature: 30.153 degrees Celsius
+gyro x,y,z : -435, 107, -109, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1604, -1696, 14692
+temperature: 30.059 degrees Celsius
+gyro x,y,z : -420, 111, -102, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1672, -1628, 14780
+temperature: 30.106 degrees Celsius
+gyro x,y,z : -421, 106, -99, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1716, -1684, 14556
+temperature: 30.106 degrees Celsius
+gyro x,y,z : -429, 128, -119, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1712, -1700, 14668
+temperature: 30.247 degrees Celsius
+gyro x,y,z : -442, 142, -103, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1764, -1624, 14748
+temperature: 30.106 degrees Celsius
+gyro x,y,z : -416, 139, -113, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1712, -1628, 14656
+temperature: 29.965 degrees Celsius
+gyro x,y,z : -415, 138, -115, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1640, -1596, 14816
+temperature: 30.059 degrees Celsius
+gyro x,y,z : -422, 115, -98, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1708, -1652, 14736
+temperature: 30.059 degrees Celsius
+gyro x,y,z : -426, 113, -89, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1772, -1696, 14640
+temperature: 30.059 degrees Celsius
+gyro x,y,z : -442, 126, -112, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2536, -436, 16948
+temperature: 30.012 degrees Celsius
+gyro x,y,z : -7287, -359, -368, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1576, -1536, 14600
+temperature: 30.012 degrees Celsius
+gyro x,y,z : -418, 120, -120, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1660, -876, 14772
+temperature: 30.012 degrees Celsius
+gyro x,y,z : -427, 114, -113, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1648, -860, 14852
+temperature: 30.012 degrees Celsius
+gyro x,y,z : -398, 138, -120, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1700, -840, 14732
+temperature: 30.012 degrees Celsius
+gyro x,y,z : -395, 111, -119, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1572, -840, 14836
+temperature: 30.059 degrees Celsius
+gyro x,y,z : -406, 129, -89, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1588, -808, 14768
+temperature: 29.918 degrees Celsius
+gyro x,y,z : -401, 89, -111, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2836, -3640, 13824
+temperature: 29.918 degrees Celsius
+gyro x,y,z : -201, 37, 464, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -1816, -4756, 14120
+temperature: 29.965 degrees Celsius
+gyro x,y,z : -216, 378, -128, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2060, -5020, 13780
+temperature: 29.871 degrees Celsius
+gyro x,y,z : -413, 203, -88, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2148, -5088, 14068
+temperature: 29.871 degrees Celsius
+gyro x,y,z : -392, -107, -111, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2156, -5044, 13908
+temperature: 30.012 degrees Celsius
+gyro x,y,z : -404, 87, -112, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2224, -5056, 13972
+temperature: 29.965 degrees Celsius
+gyro x,y,z : -437, 116, -106, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2136, -5164, 13932
+temperature: 29.824 degrees Celsius
+gyro x,y,z : -419, 109, -107, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2180, -5032, 13984
+temperature: 29.918 degrees Celsius
+gyro x,y,z : -418, 116, -108, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2088, -5016, 13996
+temperature: 29.965 degrees Celsius
+gyro x,y,z : -413, 128, -114, 
+
+MPU-6050
+Read accel, temp and gyro, error = 0
+accel x,y,z: -2140, -5044, 13956
+temperature: 29.918 degrees Celsius
+gyro x,y,z : -435, 139, -119, 
