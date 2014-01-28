@@ -4,20 +4,22 @@
 #define swF2 5
 #define swT 6
 
-#define t 1 
+#define t 1
 #define M0 7 // smart mode pin 0
 #define M1 8 // smart mode pin 1
 #define STEP 9 // Steps pin for the motor
 #define DIR 10 // Direction for the step
+//#define SLEEP 11 //sleep mode enable and disable
+#define ENABLE 12
 
 //boolean prev_Iminus = true;
 boolean Iminus = true;
 //boolean prev_Iplus = true;
 boolean Iplus = true;
 
-//boolean prev_Fminus = true;
+boolean prev_Fminus = true;
 boolean Fminus = true;
-//boolean prev_Fplus = true;
+boolean prev_Fplus = true;
 boolean Fplus = true;
 
 boolean prev_Trigger = true;
@@ -36,25 +38,35 @@ void setup()
   pinMode(M1,OUTPUT); 
   pinMode(STEP,OUTPUT);
   pinMode(DIR,OUTPUT); 
+  pinMode(SLEEP,OUTPUT);
+  pinMode(ENABLE,OUTPUT);
 
   pinMode(13, OUTPUT);
 
   /************************  Stepper Motor initial position setup *******************/
-  digitalWrite(DIR, LOW);
-  for(int i=0; i<100; i++)
-  {
-    digitalWrite(STEP,HIGH);
-    delay(t);
-    digitalWrite(STEP,LOW);
-    delay(t);
-  }
+  digitalWrite(ENABLE,HIGH);
 
-  digitalWrite(M0,HIGH);
+//  digitalWrite(SLEEP,HIGH); // wake up from sleep mode
+//  digitalWrite(DIR, LOW);
+//  for(int i=0; i<100; i++)
+//  {
+//    digitalWrite(STEP,HIGH);
+//    delay(t);
+//    digitalWrite(STEP,LOW);
+//    delay(t);
+//  }
+ // digitalWrite(SLEEP,LOW); // go back to sleep mode
+
+  digitalWrite(ENABLE,LOW);
+
+  digitalWrite(M0,LOW);
   digitalWrite(M1,LOW);
 }
 
 void loop() 
 {
+  //  digitalWrite(SLEEP,HIGH); // wake up from sleep mode
+
   digitalWrite(STEP,LOW);
   digitalWrite(13, LOW);
   Iminus = digitalRead(swI1);
@@ -81,50 +93,76 @@ void loop()
 
   if(Fplus == false)// && prev_Fplus == true )
   {
-   // delay(50);
+//    if(prev_Fplus == true)
+//        digitalWrite(SLEEP,HIGH); // wake up from sleep mode
+    // delay(50);
     // Serial.println("Focus +");
+    //delay(100);
+    
+      digitalWrite(ENABLE,LOW);
+
+    
     digitalWrite(DIR, HIGH);
     if(count >= 450 && count < 665)
     {
-      for(int repeat=0; repeat<150; repeat++)
-      {
-        digitalWrite(STEP,HIGH);
-        delay(t);
-        digitalWrite(STEP,LOW);
-        delay(t); 
-      }
+      //   for(int repeat=0; repeat<10; repeat++)
+      //   {
+      digitalWrite(STEP,HIGH);
+      delay(t);
+      digitalWrite(STEP,LOW);
+      delay(t); 
+      //   }
 
-      if(count!=665)
+      if(count!= 665)
       {
         count++;
       }
     }
+   //digitalWrite(SLEEP,LOW); // go back to sleep mode
+//delay(100);
+
+  digitalWrite(ENABLE,HIGH);
 
   }
-
+//else
+//    if(prev_Fplus == false); // wake up from sleep mode)
+//        digitalWrite(SLEEP,LOW); // go back to sleep mode
+  
   if(Fminus == false) //&& prev_Fminus == true )
   {
-   // delay(50);
+    // delay(50);
     // Serial.println("Focus -");
+//    if(prev_Fminus == true)
+//        digitalWrite(SLEEP,HIGH); // wake up from sleep mode
+   // delay(100);
+   
+     digitalWrite(ENABLE,LOW);
+   
     digitalWrite(DIR, LOW);
     if(count > 450 && count <= 665)
     {
-      for(int repeat=0; repeat<150; repeat++)
-      {
-        digitalWrite(STEP,HIGH);
-        delay(t);
-        digitalWrite(STEP,LOW);
-        delay(t); 
-      }
+      //  for(int repeat=0; repeat<10; repeat++)
+      // {
+      digitalWrite(STEP,HIGH);
+      delay(t);
+      digitalWrite(STEP,LOW);
+      delay(t); 
+      //}
 
-      if(count!= 450)
+      if(count!=450)
       {
         count--;
       }
     }
 
+  digitalWrite(ENABLE,HIGH);
+     
+//delay(100);
 
   }
+//  else
+//      if(prev_Fminus == false)
+//        digitalWrite(SLEEP,LOW); // go back to sleep mode
 
   if(Trigger == false && prev_Trigger == true )
   {
@@ -137,7 +175,13 @@ void loop()
     }
   }
   prev_Trigger = Trigger;
+//    digitalWrite(SLEEP,LOW); // go back to sleep mode
+
+//prev_Fplus = Fplus;
+//prev_Fminus = Fminus; 
 }
+
+
 
 
 
