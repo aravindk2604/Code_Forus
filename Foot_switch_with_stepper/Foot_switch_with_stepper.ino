@@ -25,7 +25,7 @@ boolean Fplus = true;
 boolean prev_Trigger = true;
 boolean Trigger = true;
 
-int count = 450;
+int count = 30; // previously 450
 void setup() 
 {
   pinMode(swI1,INPUT_PULLUP); // Illumination -
@@ -38,7 +38,7 @@ void setup()
   pinMode(M1,OUTPUT); 
   pinMode(STEP,OUTPUT);
   pinMode(DIR,OUTPUT); 
-  pinMode(SLEEP,OUTPUT);
+//  pinMode(SLEEP,OUTPUT);
   pinMode(ENABLE,OUTPUT);
 
   pinMode(13, OUTPUT);
@@ -59,8 +59,8 @@ void setup()
 
   digitalWrite(ENABLE,LOW);
 
-  digitalWrite(M0,LOW);
-  digitalWrite(M1,LOW);
+  digitalWrite(M0,HIGH);
+  digitalWrite(M1,HIGH);
 }
 
 void loop() 
@@ -103,7 +103,7 @@ void loop()
 
     
     digitalWrite(DIR, HIGH);
-    if(count >= 450 && count < 665)
+    if(count >= 30 && count < 800) // previously 450 and 665
     {
       //   for(int repeat=0; repeat<10; repeat++)
       //   {
@@ -113,7 +113,7 @@ void loop()
       delay(t); 
       //   }
 
-      if(count!= 665)
+      if(count!= 800)
       {
         count++;
       }
@@ -139,7 +139,7 @@ void loop()
      digitalWrite(ENABLE,LOW);
    
     digitalWrite(DIR, LOW);
-    if(count > 450 && count <= 665)
+    if(count > 30 && count <= 800)
     {
       //  for(int repeat=0; repeat<10; repeat++)
       // {
@@ -149,7 +149,7 @@ void loop()
       delay(t); 
       //}
 
-      if(count!=450)
+      if(count!=30)
       {
         count--;
       }
