@@ -1,4 +1,4 @@
-Codes-Forus
+Code-Forus
 ===========
 
-Repo for my codes on the Retinal Camera project
+Repo for my code on the Retinal Camera project
